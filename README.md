@@ -6,7 +6,6 @@ Check it out on GitHub: https://vinayakpandeya.github.io/Credit-_Card-_-UI-_Desi
 
 Looking forward to continuing this journey and sharing more projects!
 
-#WebDevelopment #UIDesign #CodingJourney #FirstDay
 
 ![image alt](https://github.com/user-attachments/assets/2ed7e05b-043a-4856-8036-6dcd7da753b4)
 
